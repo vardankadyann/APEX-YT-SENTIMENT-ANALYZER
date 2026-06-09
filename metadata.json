@@ -1,0 +1,6 @@
+{
+  "name": "APEX YT Comment Sentiment Analyser",
+  "description": "A modern YouTube comment sentiment analysis tool using Machine Learning (TF-IDF + Logistic Regression) for sentiment and toxicity detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
